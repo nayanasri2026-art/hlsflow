@@ -1,6 +1,6 @@
 # Change input and output details
 
-output_path="oh" # Output Path (Same will be pushed in main also)
+output_path="h1" # Output Path (Same will be pushed in main also)
 input_url="https://cdn.juicybits.site/files/www.1TamilMV.Li_-_Oh.._Sukumari_2026_HQ_HDRip_-_1080p_-_x264_-_Malayalam__Kannada_-_DD5.1_-_640Kbps_-_3GB_-_ESub.mkv?token=35e31b2e084531b1401fcafb8793865c&exp=1786553223" # Input direct file url
 input_extension="mkv" # Extension of file url
 
